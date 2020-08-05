@@ -1,4 +1,4 @@
-### Hello 👋 I'm Matthew Corbett! __(😄 Pronouns: He/Him)__
+### Hello! I'm Matthew Corbett! _(Pronouns: He/Him)_ 👋
 
 ## I am a Senior at the [University of Rhode Island][URI]
 - 🔭 I’m currently working on a [C.D.L.L Data Structure in C++][repo-link]
