@@ -38,12 +38,14 @@ to work on my data structures as well as design my own.
 ---
 
 <!-- Stats Card -->
-<a href="https://github.com/Matthew-Corbett-96/">
-  <img align="left" alt="Matthew-Corbett-96's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Matthew-Corbett-96&show_icons=true&hide_border=true&count_private=true&theme=gruvbox&hide=issues" />
+<div> 
+  <a href="https://github.com/Matthew-Corbett-96/">
+    <img align="left" alt="Matthew-Corbett-96's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Matthew-Corbett-96&show_icons=true&hide_border=true&count_private=true&theme=gruvbox&hide=issues" />
  </a>
  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" alt="Matthew-Corbett-96 Lang Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matthew-Corbett-96&layout=compact&theme=gruvbox" />
+    <img align="left" alt="Matthew-Corbett-96 Lang Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matthew-Corbett-96&layout=compact&theme=gruvbox" />
  </a>
+</div>
 
 <!-- Lang Card 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matthew-Corbett-96&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
