@@ -42,7 +42,7 @@ to work on my data structures as well as design my own.
     <img align="left" alt="Matthew-Corbett-96's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Matthew-Corbett-96&show_icons=true&hide_border=true&count_private=true&hide=issues" />
  </a>
  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" alt="Matthew-Corbett-96 Lang Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matthew-Corbett-96&layout=compact" />
+    <img align="left" alt="Matthew-Corbett-96 Lang Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matthew-Corbett-96&layout=compact&hide_border=true" />
  </a>
 
 
