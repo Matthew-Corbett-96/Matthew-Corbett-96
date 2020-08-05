@@ -38,20 +38,18 @@ to work on my data structures as well as design my own.
 ---
 
 <!-- Stats Card -->
-<div> 
   <a href="https://github.com/Matthew-Corbett-96/">
     <img align="left" alt="Matthew-Corbett-96's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Matthew-Corbett-96&show_icons=true&hide_border=true&count_private=true&theme=gruvbox&hide=issues" />
  </a>
  <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="left" alt="Matthew-Corbett-96 Lang Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matthew-Corbett-96&layout=compact&theme=gruvbox" />
  </a>
-</div>
+
 
 <!-- Lang Card 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matthew-Corbett-96&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 -->
 <!--  Pins  -->
-<div>
   <a href="https://github.com/Matthew-Corbett-96/Shopping-Kart">
     <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Matthew-Corbett-96&repo=Shopping-Kart&theme=gruvbox" />
   </a>
@@ -61,7 +59,7 @@ to work on my data structures as well as design my own.
   <a href="https://github.com/Matthew-Corbett-96/Vim-Personal-Settings">
     <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Matthew-Corbett-96&repo=Vim-Personal-Settings&theme=gruvbox" />
   </a>
-</div> 
+
 <!-- Variable Deffinitions --> 
 [URI]: https://www.uri.edu/
 [repo-link]: https://github.com/Matthew-Corbett-96/Circularly-doubly-linked-list-C-
