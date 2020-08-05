@@ -8,12 +8,9 @@ my own data structures from scratch.
 to work on my data structures as well as design my own.
 - ⚡ Fun fact: I grew up as an actor and designer, I even received a *B.F.A* in Acting.
 
-### :email: Contact Me: 
-
-
 ### Connect with me:
 
-[<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+<!-- [<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
 [<img align="left" alt="Matthew-Corbett-96 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 <!-- [<img align="left" alt="Matthew-Corbett-96 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] -->
 [<img align="left" alt="Matthew-Corbett-96 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
