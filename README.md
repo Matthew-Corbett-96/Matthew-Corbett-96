@@ -4,9 +4,9 @@
 - 🔭 I’m currently working on a [C.D.L.L Data Structure][repo-link]
 - 🌱 I’m currently learning [MySQL][MYSQL] , [CMake][CMAKE] , & Building
 my own data structures from scratch.
-- :book: My Goal is to work in the Software Field After Graduation and continue
+- :book: My Goal is to work in the software field after graduation and continue
 to work on my data structures as well as design my own.
-- ⚡ Fun fact: I grew up as an actor and designer, I even got my **B.F.A** in Acting.
+- ⚡ Fun fact: I grew up as an actor and designer, I even received a *B.F.A* in Acting.
 
 ### :email: Contact Me: 
 
