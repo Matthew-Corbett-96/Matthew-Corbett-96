@@ -37,16 +37,22 @@ to work on my data structures as well as design my own.
 
 ---
 
+<!-- Stats Card -->
 <img align="left" alt="Matthew-Corbett-96's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Matthew-Corbett-96&show_icons=true&hide_border=true&count_private=true&theme=gruvbox" />
 
+<!-- Lang Card -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matthew-Corbett-96&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Matthew-Corbett-96&repo=Vim-Personal-Settings)](https://github.com/anuraghazra/github-readme-stats)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Matthew-Corbett-96&repo=Circularly-doubly-linked-list-C-)](https://github.com/anuraghazra/github-readme-stats)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Matthew-Corbett-96&repo=Shopping-Kart)](https://github.com/anuraghazra/github-readme-stats)
-
+<!--  Pins  -->
+<a href="https://github.com/Matthew-Corbett-96/Shopping-Kart">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Matthew-Corbett-96&repo=Shopping-Kart&theme=gruvbox" />
+</a>
+<a href="https://github.com/Matthew-Corbett-96/Circularly-doubly-linked-list-C-">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Matthew-Corbett-96&repo=Circularly-doubly-linked-list-C-&theme=gruvbox" />
+</a>
+<a href="https://github.com/Matthew-Corbett-96/Vim-Personal-Settings">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Matthew-Corbett-96&repo=Vim-Personal-Settings&theme=gruvbox" />
+</a>
 
 [URI]: https://www.uri.edu/
 [repo-link]: https://github.com/Matthew-Corbett-96/Circularly-doubly-linked-list-C-
