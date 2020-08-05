@@ -51,16 +51,17 @@ to work on my data structures as well as design my own.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matthew-Corbett-96&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 -->
 <!--  Pins  -->
-<a href="https://github.com/Matthew-Corbett-96/Shopping-Kart">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Matthew-Corbett-96&repo=Shopping-Kart&theme=gruvbox" />
-</a>
-<a href="https://github.com/Matthew-Corbett-96/Circularly-doubly-linked-list-C-">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Matthew-Corbett-96&repo=Circularly-doubly-linked-list-C-&theme=gruvbox" />
-</a>
-<a href="https://github.com/Matthew-Corbett-96/Vim-Personal-Settings">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Matthew-Corbett-96&repo=Vim-Personal-Settings&theme=gruvbox" />
-</a>
-
+<div>
+  <a href="https://github.com/Matthew-Corbett-96/Shopping-Kart">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Matthew-Corbett-96&repo=Shopping-Kart&theme=gruvbox" />
+  </a>
+  <a href="https://github.com/Matthew-Corbett-96/Circularly-doubly-linked-list-C-">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Matthew-Corbett-96&repo=Circularly-doubly-linked-list-C-&theme=gruvbox" />
+  </a>
+  <a href="https://github.com/Matthew-Corbett-96/Vim-Personal-Settings">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Matthew-Corbett-96&repo=Vim-Personal-Settings&theme=gruvbox" />
+  </a>
+</div> 
 <!-- Variable Deffinitions --> 
 [URI]: https://www.uri.edu/
 [repo-link]: https://github.com/Matthew-Corbett-96/Circularly-doubly-linked-list-C-
