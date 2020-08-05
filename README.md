@@ -1,7 +1,7 @@
-### Oh Hello 👋 I am Matthew Corbett! __(😄 Pronouns: He/Him)__
+### Hello 👋 I'm Matthew Corbett! __(😄 Pronouns: He/Him)__
 
 ## I am a Senior at the [University of Rhode Island][URI]
-- 🔭 I’m currently working on a [C.D.L.L Data Structure][repo-link]
+- 🔭 I’m currently working on a [C.D.L.L Data Structure in C++][repo-link]
 - 🌱 I’m currently learning [MySQL][MYSQL] , [CMake][CMAKE] , & Building
 my own data structures from scratch.
 - :book: My Goal is to work in the software field after graduation and continue
