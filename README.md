@@ -1,7 +1,7 @@
 ### Hello! I'm Matthew Corbett! _(Pronouns: He/Him)_ 👋
 
 ## I am a Senior at the [University of Rhode Island][URI]
-- :happy: My favorite language is C++ !
+- :smile: My favorite language is C++ !
 - 🔭 I’m currently working on a [C.D.L.L Data Structure in C++][repo-link]
 - 🌱 I’m currently learning [MySQL][MYSQL] , [CMake][CMAKE] , & Building
 my own data structures from scratch.
