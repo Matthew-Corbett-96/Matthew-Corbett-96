@@ -62,7 +62,7 @@ to work on my data structures as well as design my own.
 -->
 <!-- Variable Deffinitions --> 
 [URI]: https://www.uri.edu/
-[repo-link]: https://github.com/Matthew-Corbett-96/Circularly-doubly-linked-list-C-
+[repo-link]: https://github.com/Matthew-Corbett-96/Circularly-Doubly-Linked-List
 [CMAKE]: https://cmake.org/
 [MYSQL]: https://www.mysql.com/
 [twitter]: https://twitter.com/m_james1996
