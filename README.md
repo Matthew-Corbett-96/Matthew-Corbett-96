@@ -2,16 +2,14 @@
 
 ## I am a Senior at the [University of Rhode Island][URI]
 - :smile: My favorite language is C++ !
-- 🔭 I’m currently working on a [C.D.L.L Data Structure in C++][repo-link]
-- 🌱 I’m currently learning [MySQL][MYSQL] & [CMake][CMAKE].
-- :book: My Goal is to work in the software field after graduation and continue
-to work on my data structures as well as design my own.
+<!--🔭 I’m currently working on a [C.D.L.L Data Structure in C++][repo-link] -->
+- 🌱 I’m currently learning [Django Backend Framework][DJANGO].
+- :book: My Goal is to work in the software field, as well as design my own data structures in C/C++. I also want to contribute to Python's Repo one day!
 - ⚡ Fun fact: I grew up as an actor and designer, I even received a *B.F.A* in Acting.
 
 ### Connect with me:
-<!-- [<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
 [<img align="left" alt="Matthew-Corbett-96 | Twitter" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-<!-- [<img align="left" alt="Matthew-Corbett-96 | LinkedIn" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] -->
+[<img align="left" alt="Matthew-Corbett-96 | LinkedIn" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Matthew-Corbett-96 | Instagram" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="FMatthew-Corbett-96 | FaceBook" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/facebook.svg" />][facebook]
 <br />
@@ -63,9 +61,8 @@ to work on my data structures as well as design my own.
 <!-- Variable Deffinitions --> 
 [URI]: https://www.uri.edu/
 [repo-link]: https://github.com/Matthew-Corbett-96/Circularly-Doubly-Linked-List
-[CMAKE]: https://cmake.org/
-[MYSQL]: https://www.mysql.com/
+[DJANGO]: https://www.djangoproject.com/
 [twitter]: https://twitter.com/m_james1996
 [instagram]: https://instagram.com/matthewcorbett96
 [facebook]: https://www.facebook.com/Mcfootball96/
-<!-- [linkedin]: https://linkedin.com/in/codeSTACKr -->
+[linkedin]: https://linkedin.com/in/matthew-corbett-134729202/
