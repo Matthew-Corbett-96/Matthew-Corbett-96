@@ -1,10 +1,11 @@
 ### Hello! I'm Matthew Corbett! _(Pronouns: He/Him)_ 👋
 
-## I am a Recent Graduate of the [University of Rhode Island][URI]
+## I am a Junior Software Engineer at [iptiQ _by Swiss Re_][SWISS]
+### I am a Graduate of the [University of Rhode Island][URI]
 - :smile: My favorite language is C++ !
 <!--🔭 I’m currently working on a [C.D.L.L Data Structure in C++][repo-link] -->
 - 🌱 I’m currently learning [Django Backend Framework][DJANGO].
-- :book: My Goal is to work in the software field, as well as design my own data structures in C/C++. I also want to contribute to Python's Repo one day!
+- :book: My Goal is to design my own data structures in C/C++. I also want to contribute to Python's Repo one day!
 - ⚡ Fun fact: I grew up as an actor and designer, I even received a *B.F.A* in Acting.
 
 ### Connect with me:
@@ -50,20 +51,19 @@
 
 <!-- Lang Card 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matthew-Corbett-96&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
--->
-<!--  Pins  NEED TO FIX!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
   <a href="https://github.com/Matthew-Corbett-96/Shopping-Kart">
     <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Matthew-Corbett-96&repo=Shopping-Kart&theme=gruvbox" />
   </a>
   <a href="https://github.com/Matthew-Corbett-96/Circularly-doubly-linked-list-C-">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Matthew-Corbett-96&repo=Circularly-doubly-linked-list-C-&theme=gruvbox" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Matthew-Corbett-96&repo=Circularly-doubly-linked-list-C-" />
   </a>
   <a href="https://github.com/Matthew-Corbett-96/Vim-Personal-Settings">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Matthew-Corbett-96&repo=Vim-Personal-Settings&theme=gruvbox" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Matthew-Corbett-96&repo=Vim-Personal-Settings" />
   </a>
--->
+--> 
 <!-- Variable Deffinitions --> 
 [URI]: https://www.uri.edu/
+[SWISS]: https://www.iptiq.com/about-us/
 [repo-link]: https://github.com/Matthew-Corbett-96/Circularly-Doubly-Linked-List
 [DJANGO]: https://www.djangoproject.com/
 [twitter]: https://twitter.com/m_james1996
