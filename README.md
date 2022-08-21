@@ -1,12 +1,11 @@
 ### Hello! I'm Matthew Corbett! _(Pronouns: He/Him)_ 👋
 
-## I am a Junior Software Engineer at [iptiQ _by Swiss Re_][SWISS]
+## I am a Software Engineer at [iptiQ _by Swiss Re_][SWISS]
 ### I am a Graduate of the [University of Rhode Island][URI]
-- :smile: My favorite language is C++ !
-<!--🔭 I’m currently working on a [C.D.L.L Data Structure in C++][repo-link] -->
+- :smile: My favorite language is currently Java since I use it at work all the time.
 - 🌱 I’m currently learning [Django Backend Framework][DJANGO].
-- :book: My Goal is to design my own data structures in C/C++. I also want to contribute to Python's Repo one day!
-- ⚡ Fun fact: I grew up as an actor and designer, I even received a *B.F.A* in Acting.
+- :book: My goals are to master Azure && Azure Devops so I can build my own infra for my code projects 
+- ⚡ Fun fact: I am starting as a Cloud Infrastructure Engineer and excited to learn new tech! 
 
 ### Connect with me:
 [<img align="left" alt="Matthew-Corbett-96 | Twitter" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -64,7 +63,6 @@
 <!-- Variable Deffinitions --> 
 [URI]: https://www.uri.edu/
 [SWISS]: https://www.iptiq.com/about-us/
-[repo-link]: https://github.com/Matthew-Corbett-96/Circularly-Doubly-Linked-List
 [DJANGO]: https://www.djangoproject.com/
 [twitter]: https://twitter.com/m_james1996
 [instagram]: https://instagram.com/matthewcorbett96
